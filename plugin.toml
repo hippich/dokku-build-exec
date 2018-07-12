@@ -1,0 +1,6 @@
+[plugin]
+name = "dokku-build-exec"
+description = "Inject custom commands into dokku based on files in project"
+version = "0.4.1"
+website_url = "https://github.com/hippich/dokku-build-exec"
+[plugin.config]
